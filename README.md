@@ -19,3 +19,9 @@ The following CIS standards have equivalent Sentinel policies written for them. 
 - [rds-encryption-at-rest-enabled](./docs/policies/rds-encryption-at-rest-enabled.md)
 - [rds-minor-version-upgrade-enabled](./docs/policies/rds-minor-version-upgrade-enabled.md)
 - [rds-public-access-disabled](./docs/policies/rds-public-access-disabled.md)
+
+### Minimum Sentinel Version Required
+
+```pre
+0.26.x
+```
